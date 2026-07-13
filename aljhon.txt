@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+Aljhon
+bsit4
+=======
 Aljhon R Borbon
 ITP19
+>>>>>>> main
